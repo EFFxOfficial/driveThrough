@@ -14,3 +14,12 @@ I will indeed try to get more free time to implement this system, the TODO list 
 
 
 The idea is massive, but the end product is what makes the developer motivated, who knows where it will end up at...?
+
+Some Images:
+
+![My animated logo](https://i.imgur.com/qoUmDuj.png)
+
+![My animated logo](https://i.imgur.com/qoUmDuj.png)
+![My animated logo](https://i.imgur.com/x6chVUe.png)
+![My animated logo](https://i.imgur.com/XdjsnJt.png)
+![My animated logo](https://i.imgur.com/YvGSjIm.png)
